@@ -1,0 +1,15 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    width: 100%;
+}
+
+.bg-primary {
+    background-color: #007bff !important;
+    color: #fff;
+  }
